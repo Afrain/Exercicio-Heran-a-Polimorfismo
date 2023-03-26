@@ -1,0 +1,15 @@
+D:\Projetos\ExercicioHerancaPolimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.exe
+D:\Projetos\ExercicioHerancaPolimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.deps.json
+D:\Projetos\ExercicioHerancaPolimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.runtimeconfig.json
+D:\Projetos\ExercicioHerancaPolimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.dll
+D:\Projetos\ExercicioHerancaPolimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.pdb
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.csproj.AssemblyReference.cache
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.AssemblyInfo.cs
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.dll
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\refint\ExercicioHerancaPolimorfismo.dll
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.pdb
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.genruntimeconfig.cache
+D:\Projetos\ExercicioHerancaPolimorfismo\obj\Debug\net7.0\ref\ExercicioHerancaPolimorfismo.dll
