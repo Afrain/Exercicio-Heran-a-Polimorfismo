@@ -1,4 +1,4 @@
-
+using System;
 namespace ExercicioHerancaPolimorfismo.Models
 {
     public class ProdutoUsado : Produto
